@@ -1,3 +1,3 @@
 # Atmos
 
-Collection of scripts for atmospheric science
+Collection of scripts used atmospheric science
